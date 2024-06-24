@@ -1,0 +1,11 @@
+button{
+    padding:10px;
+    margin:4px;
+    background: rgb(rgb(167, 150, 150), rgb(129, 191, 129), rgb(103, 103, 180));
+  }
+  input[type="text"] {
+    padding:10px;
+    margin: 5px;
+    border-radius: 3px;
+  }
+  
